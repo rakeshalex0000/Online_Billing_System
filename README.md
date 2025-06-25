@@ -28,39 +28,6 @@ This software system will rely only on the internet to provide a user-friendly e
 8. **Login/Signup**: Secure login and signup pages for user authentication.
 9. **SSO**: Single Sign-On page for convenient access.
 
-### Screenshots
-
-Here are some screenshots of the key pages:
-
-1. **Home Page**
-   ![Home Page](./images/home.png)
-
-2. **Update Profile Page**
-   ![Update Profile Page](./images/update_profile.png)
-
-3. **Create Bill Page**
-   ![Create Bill Page](./images/Creating_Bill.png)
-   
-5. **Manage Bill Page**
-   ![Manage Bill Page](./images/Managing_Bills.png)
-
-6. **Generate Report Page**
-   ![Generate Report Page](./images/Report_Generator.png)
-
-7. **Product ShortHand Page**
-   ![Product ShortHand Page](./images/Products_Shorthand.png)
-
-8. **Giveaway Generator Page**
-   ![Giveaway Generator Page](./images/Giveaway_Generator.png)
-
-9. **Login Page**
-   ![Login Page](./images/login.png)
-
-10. **Signup Page**
-   ![Signup Page](./images/signup.png)
-
-11. **SSO Page**
-    ![SSO Page](./images/Single_Sign_On.png)
 
 ### Getting Started
 
