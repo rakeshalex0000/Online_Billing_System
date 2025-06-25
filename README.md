@@ -119,6 +119,5 @@ To run the Web-based Billing Software project, follow these steps:
 - **Single Sign-On (SSO)**: Secure and convenient login experience.
 - **Responsive Design**: Accessible on various devices, including desktops, tablets, and smartphones.
 
-### License
-This project is licensed under the MIT License - see the [LICENSE](./LICENSE) file for details.
+
 
